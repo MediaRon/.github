@@ -1,6 +1,6 @@
 ## Welcome to MediaRon 👋
 
-![MediaRon Logo](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![MediaRon Logo]((https://user-images.githubusercontent.com/636521/171414996-431929ba-f4ab-4904-9644-5fec93ff7431.png)
 
 You'll mostly find WordPress plugins here.
 
