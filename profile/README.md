@@ -1,6 +1,6 @@
 ## Welcome to MediaRon 👋
 
-![MediaRon Logo]((https://user-images.githubusercontent.com/636521/171414996-431929ba-f4ab-4904-9644-5fec93ff7431.png))
+![Social for MediaRon](https://user-images.githubusercontent.com/636521/171415216-e31c2a9d-a096-4571-aa8a-db036dd2db13.png)
 
 You'll mostly find WordPress plugins here.
 
@@ -14,3 +14,7 @@ We've been building WordPress plugins since 2007. Need a custom plugin or suppor
 ### Sponsors
 
 Sponsors are extremely appreciated. <a href="https://github.com/sponsors/MediaRon">Please consider a sponsorship</a> if you find any of our plugins useful.
+
+### Branding
+
+For branding assets (logos, images), please visit https://mediaron.com/brand-assets/.
